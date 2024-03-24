@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="tv_hello">Hi, my name is</string>
+    <string name="tv_email">My email address is</string>
+    <string name="tv_birthday">My birthday is</string>
+
+    <string name="btn_load_new_user">Load new user</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
